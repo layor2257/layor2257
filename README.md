@@ -6,6 +6,10 @@
 - 📫 How to reach me: Twitter - @Codingrient | Gmail: Isaiahglory426@gmail.com
 - ⚡ Fun fact: But the app was running on my system 
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
+
 
 
 <h3> 🤝🏻 Connect with Me </h3>
