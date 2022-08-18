@@ -1,16 +1,21 @@
 ### Hi there 👋
+-  I have a bachelor's degree in computer science
+- 🔭 I’m currently working on DevOps projects, to be more familar with the industry-standard tools for cloud native apps
+- 🌱 I’m currently learning containerization
+- 💬 Ask me anything about CI/CD, Containers, AWS, Azure, Dynamics CRM, Prometheus & Grafana
+- 📫 How to reach me: Twitter - @Codingrient | Gmail: Isaiahglory426@gmail.com
+- ⚡ Fun fact: But the app was running on my system 
 
-<!--
-**layor2257/layor2257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/glory-isaiah-95232a179/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@gloryisaiah-blue?style=flat&logo=linkedin"></a>
+ <a href="https://twitter.com/Codingrient" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/Codingrient?style=social"></a>
+<a href="mailto:isaiahglory426@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-isaiahglory426@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+
+⭐️ From [@layor2257](https://github.com/layor2257)
